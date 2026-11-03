@@ -1,0 +1,17 @@
+# Sensitive files and environment
+kaggle.json
+.env
+.env.*
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+# Downloaded data and checkpoints
+faces/
+data/
+*.csv
+*.zip
+*.pt
+*.pth
+*.ckpt
+wandb/
+runs/
