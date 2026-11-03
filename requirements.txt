@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+tqdm
+Pillow
+jupyter
+ipython
+torch
+torchvision
+# Some notebooks additionally require Colab-specific setup and CLIP.
